@@ -1,0 +1,1 @@
+{"name":"天气词库","type":"气象学","description":"所有天气","example":"晴天 下雨 刮风 多云 阴天 ","words":[{"word":"多云","pinyin":"duo'yun"},{"word":"刮风","pinyin":"gua'feng"},{"word":"晴天","pinyin":"qing'tian"},{"word":"下雨","pinyin":"xia'yu"},{"word":"阴天","pinyin":"yin'tian"},{"word":"雨夹雪","pinyin":"yu'jia'xue"}]}

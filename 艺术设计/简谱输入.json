@@ -1,0 +1,1 @@
+{"name":"简谱输入","type":"音乐术语","description":"包含低音、高音、小节线、终止符、连音符号、反复符号等","example":"小节线 终止符 连音符号 反复符号 低音 高音 ","words":[{"word":"低音","pinyin":"di'yin"},{"word":"反复符号","pinyin":"fan'fu'fu'hao"},{"word":"高音","pinyin":"gao'yin"},{"word":"连音符号","pinyin":"lian'yin'fu'hao"},{"word":"小节线","pinyin":"xiao'jie'xian"},{"word":"终止符","pinyin":"zhong'zhi'fu"}]}
